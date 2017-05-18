@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.niedzielski</groupId>
-	<artifactId>DietTracker</artifactId>
+	<artifactId>Ships</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>DietTracker</name>
+	<name>Ships</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
